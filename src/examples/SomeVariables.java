@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class SomeVariables {
 
     public static void main(String[] args) {
+
+
         Scanner scan = new Scanner(System.in);
         double totalCost = 0.0;
         System.out.println("Enter your full name");
