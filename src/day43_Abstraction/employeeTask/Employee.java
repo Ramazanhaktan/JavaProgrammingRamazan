@@ -40,7 +40,7 @@ public abstract class Employee extends Person{
     @Override
     public String toString() {
         return "Employee{" +
-                ", name=" + getName() +
+                "name=" + getName() +
                 ", age=" + getAge() +
                 ", gender=" + getGender() +
                 ", id=" + id +
